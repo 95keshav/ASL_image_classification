@@ -6,23 +6,6 @@
 </div>
 
 <h1 align="center">American Sign Language image classification using CNN neural Network</h1>
-
-<!-- <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{YOUR_GITHUB_USERNAME}}/ml_projects?color=56BEB8">
-
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{YOUR_GITHUB_USERNAME}}/ml_projects?color=56BEB8">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{YOUR_GITHUB_USERNAME}}/ml_projects?color=56BEB8">
-
-  <img alt="License" src="https://img.shields.io/github/license/{{YOUR_GITHUB_USERNAME}}/ml_projects?color=56BEB8">
-
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/ml_projects?color=56BEB8" /> -->
-
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{{YOUR_GITHUB_USERNAME}}/ml_projects?color=56BEB8" /> -->
-
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{{YOUR_GITHUB_USERNAME}}/ml_projects?color=56BEB8" /> -->
-</p> -->
-
 <!-- Status -->
 
 <!-- <h4 align="center"> 
@@ -31,7 +14,7 @@
 
 <hr> -->
 
-<p align="center">
+<!-- <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
   <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
@@ -39,7 +22,7 @@
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
   <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Author</a>
-</p>
+</p> -->
 
 <br>
 
@@ -49,9 +32,8 @@ Day to day communication can be very challenging for people belonging to deaf co
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+:heavy_check_mark: We got 83 percent accuracy in classification of ASL images;\
+:heavy_check_mark: compared 3 image preprocessing and best one is selected;
 
 ## :rocket: Technologies ##
 
@@ -62,6 +44,7 @@ The following tools were used in this project:
 - [keras](https://keras.io/)
 - [cuda-toolkit](https://developer.nvidia.com/cuda-toolkit)
 - [jupyter](https://jupyter.org/)
+- [Dataset](https://www.kaggle.com/mrgeislinger/asl-rgb-depth-fingerspelling-spelling-it-out)
 
 ## :white_check_mark: Requirements ##
 
